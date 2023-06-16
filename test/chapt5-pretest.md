@@ -188,7 +188,7 @@
 188. exhau
 189. financial p
 190. i?
-191. language barrens
+191. language barrens #barren:贫瘠的，不毛的，不育的，无效果的
 192. gold coast
 193. ice?
 194. household?
