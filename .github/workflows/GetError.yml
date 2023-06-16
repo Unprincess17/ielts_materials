@@ -1,0 +1,23 @@
+name: Diff Files
+
+on:
+  push:
+    paths:
+      - 'test/**'
+
+jobs:
+  diff_files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Diff files and generate error output
+        run: |
+          mkdir -p err
+          datetime=$(date '+%Y%m%d%H%M%S')
+          for file in $(git diff --name-only HEAD^ HEAD --diff-filter=AM -- test/); do
+            filename=$(basename "$file")
+            diff -u "ref/$filename" "test/$filename" > "err/$filename.$datetime.err"
+          done
