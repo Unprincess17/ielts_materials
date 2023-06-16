@@ -16,8 +16,8 @@ jobs:
       - name: Diff files and generate error output
         run: |
           mkdir -p err
-          datetime=$(date '+%Y%m%d%H%M%S')
+          datetime=$(date '%m%d')
           for file in $(git diff --name-only HEAD^ HEAD --diff-filter=AM -- test/); do
             filename=$(basename "$file")
-            diff -u "ref/$filename" "test/$filename" > "err/$filename.$datetime.err"
+            diff -y --suppress-common-lines "ref/$filename" "test/$filename" > "err/$filename.$datetime.err"
           done
