@@ -113,7 +113,7 @@
 113. sense of achievement
 114. sense of success
 115. sensible exercise
-116. sentence
+116. sentences
 117. service manager
 118. set money aside
 119. shared bathroom

@@ -119,7 +119,7 @@
 119. technical vocabulary
 120. technical institution
 121. teaching club
-122. teaching hourse
+122. teaching houre
 123. teaching method
 124. teaching stuff
 125. teaching syllabus
