@@ -98,7 +98,7 @@
 98. water resources
 99. water skiing
 100. weekly return
-101. welcom package
+101. welcome package
 102. welcome party
 103. welfare department
 104. Western Europe
