@@ -1,70 +1,52 @@
-1. bulletin board					      |	1. bili bo
-2. breathtaking						      |	2. brice taking
-4. British Council					      |	4. british council
-5. British Library					      |	5. british libaray
-6. British Museum					      |	6. british museum
-7. broaden one's horizon				      |	7. routine
-8. broaden one's view					      |	8. body once will
-9. brother-in-law					      |	9. brother window
+2. breathtaking						      |	2. breathe taking
+4. British Council					      |	4. British Coucil
+6. British Museum					      |	6. ?
+9. brother-in-law					      |	9. br law
 11. bus pass						      |	11. bus park
-12. bus routes						      |	12. bus route
-13. business card					      |	13. business car
+12. bus routes						      |	12. bus road
 16. business ethics					      |	16. business essays
-17. business faculty					      |	17. business faculty*
-21. cabin keys						      |	21. cabin kids
-22. cable car						      |	22. cable card
-23. circulation desk					      |	23. ciculation
-24. call slip						      |	24. cos lab
-25. campus crime					      |	25. compus crime
-26. candles						      |	26. kindle
-27. cannot meet the deadline				      |	27. can not meet the deadline
-30. car tires/tyres					      |	30. car tier
+18. business studies					      |	18. business study
+21. cabin keys						      |	21. cading keys
+24. call slip						      |	24. c sleep
+26. candles						      |	26. candle
+30. car tires/tyres					      |	30. car tires
 32. card catalog(ue)					      |	32. card catalogue
-39. choices for facilities				      |	39. choice for facility
-40. cassette recorders					      |	40. c recorder
+40. cassette recorders					      |	40. cassette recorder
 42. CD-ROM						      |	42. CD ROM
-46. cater to						      |	46. case?
-47. catering facilities					      |	47. catering facility
-50. center manager					      |	50. center me?
-52. central Avenue					      |	52. central avenue
-53. Central Park					      |	53. central park
-54. Central Station					      |	54. central station
+48. catering staff					      |	48. catering stuff
+49. center hall						      |	49. centre hall
+50. center manager					      |	50. centre managemetn
+51. central heating					      |	51. centre heating
+52. central Avenue					      |	52. centre 
+53. Central Park					      |	53. ?
+54. Central Station					      |	54. centre station
 55. certificate of childcare				      |	55. ?
 56. chartable organization				      |	56. charitable organization
-61. chest infection					      |	61. check ?
-62. chemistry lab					      |	62. chemistri lo
-63. Church Road						      |	63. ch?
-64. chequebook						      |	64. check book
-65. cheque card						      |	65. check card
-67. circus performance					      |	67. ce c f?
+61. chest infection					      |	61. chest infaction
+62. chemistry lab					      |	62. chemitral lab
+63. Church Road						      |	63. church road
+64. chequebook						      |	64. cheque book
+67. circus performance					      |	67. circu performance
 68. Children's Day					      |	68. children's day
-69. cheese production					      |	69. cheese prodution
 70. city's expansion					      |	70. city expansion
-71. city council					      |	71. city cousil
+71. city council					      |	71. city counsil
 72. city overhead view					      |	72. city overhead due
-73. commuters						      |	73. commutee
-75. conquerors						      |	75. conc
-76. cleaning equipment					      |	76. clean equipment
-77. cleaning materials					      |	77. fn f
-78. clear argument					      |	78. cl 
+74. class representative				      |	74. card representative
+75. conquerors						      |	75. concrus
+77. cleaning materials					      |	77. cleaning material
 79. classmates						      |	79. classmate
 80. coarse texture					      |	80. course texture
 82. colleagues						      |	82. collegue
 84. closed shelves					      |	84. cloth shelf
 85. close-book exam					      |	85. close book exam
-86. closed reserve					      |	86. close reserva
-87. closed-circuit TV					      |	87. close TV
+86. closed reserve					      |	86. close reserve
+87. closed-circuit TV					      |	87. close circuite TV
 92. collections						      |	92. collection
 93. collegue close-up					      |	93. college close up
-94. common residence					      |	94. common 
+94. common residence					      |	94. common resident
 96. common sense					      |	96. common scene
-98. communication strategies				      |	98. communication stratergies
-100. conference reports					      |	100. c
-101. contact list					      |	101. context list
-102. company actions					      |	102. company action
-103. compulsory course					      |	103. compulsary c
-106. computer sound card				      |	106. computer?
+99. communication technology				      |	99. communication technologies
+100. conference reports					      |	100. conference report 
+102. company actions					      |	102. conpany action
+105. computer programmer				      |	105. computer programmar
 108. connecting flight					      |	108. connecting flights
-109. concert hall					      |	109. concept hall
-110. concert room					      |	110. consite
-111. classical music					      |	111. classical museum
