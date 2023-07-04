@@ -22,7 +22,7 @@
 22. source of information
 23. school gym
 24. local school stadium
-25. outdoor acvtivities
+25. outdoor activities
 26. college ground
 27. local stadium
 28. community centre
@@ -36,7 +36,7 @@
 36. flexible work pattern
 37. automatic gear type
 38. training courses
-39. different weathrer conditions
+39. different weather conditions
 40. registration fee
 41. driving diary
 42. wild flower
@@ -67,7 +67,7 @@
 67. permanent records
 68. recycled pens
 69. football fan
-70. prposed report
+70. proposed report
 71. health department
 72. food allergies
 73. food intake
@@ -142,7 +142,7 @@
 142. compressed air
 143. cone head
 144. bird's nest
-145. plastic bootle
+145. plastic bottle
 146. wood cover
 147. gas station
 148. measuring equipment
@@ -349,7 +349,7 @@
 349. background reading
 350. sustainable planting process
 351. labour cost
-352. mantenance equipment
+352. maintenance equipment
 353. protective clothing
 354. triangle shaped
 355. night club
@@ -360,7 +360,7 @@
 360. tented accommodation
 361. mountain climbing
 362. skeleton coast
-363. targe readers
+363. target readers
 364. prevoius reports
 365. purpose of essay
 366. relevant materials
