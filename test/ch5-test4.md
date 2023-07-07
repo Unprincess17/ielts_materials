@@ -1,65 +1,65 @@
 1. emotion and mood
-2. under term
+2. end of term
 3. endangered species
-4. energy?
-5. engineer
+4. energy industry
+5. engineers
 6. engineering room
-7. engrace
-8. enrollment fee
+7. engrave
+8. erollment fees
 9. entrance fee
-10. environment engicy
-11. environment damage
-12. environment issue
+10. environment agency
+11. environmental damage
+12. environmental issue
 13. environmental sign
 14. environmental study
-15. environmently friendly
+15. environmentally friendly
 16. evening news
 17. evening appointment
-18. excersise one's muscle
-19. ex
-20. expirmental
-21. expir facilities
-22. ex ?
+18. exercise one's muscle
+19. exhibition of 
+20. exbirimental
+21. exbir facilities
+22. expire duration
 23. express train
-24. express waste
-25. ex dansion number
+24. express way
+25. extention number
 26. extensive writing
-27. extense
+27. exte dwell
 28. extra charge
 29. extra workload
-30. essical 
+30. exicle film
 31. eye docter
 32. eye contact
 33. essay plan
-34. extingbis
-35. face to face interview
-36. failure rate
-37. family medical histoty
+34. extinct species
+35. face-to-face interview
+36. faliar rate
+37. family regical
 38. familiar with
 39. family abuse
 40. family ticket
 41. family name
-42. family relationshop
+42. family relationship
 43. fancy dress
-44. fancy ball
+44. fancyball
 45. fancy dress party
-46. fac?
+46. facul
 47. farewell party
 48. farming product
-49. fear unemployment
-50. feel one's ?
-51. female co
-52. failed mess?
-53. fail system
-54. fail trip
-55. field work
-56. film fes
-57. film work
-58. finacil
-59. fiancil 
-60. fiancil budget
-61. financial 
-62. financial ex
+49. fair of unemployment
+50. fear of pose
+51. female course study
+52. film method
+53. feel system
+54. feel trip
+55. filed work
+56. film festival
+57. film studio
+58. financial advice
+59. financial affair
+60. financial budget
+61. financial department
+62. financial executive
 63. financial goal
 64. financial market
 65. financial organization
@@ -67,7 +67,7 @@
 67. financial problem
 68. financial shortage
 69. financial source
-70. find out
+70. fine arts
 71. fine texture
 72. fire alarm
 73. fire blanket
@@ -79,27 +79,27 @@
 79. first year student
 80. fish cake
 81. fish tank
-82. fishing boat
+82. fishing bone
 83. fishing industry
 84. fitness center
 85. fitness club
 86. fitness level
 87. fitness training
-88. fake expenses
+88. fix expense
 89. flexible working time
 90. flight number
-91. flower taste
-92. flying crowd
+91. flower's taste
+92. fla cloud
 93. flying speed
-94. food impressive
+94. food processing
 95. food and oil
 96. food chain
 97. focus on
 98. football club
 99. football match
-100. fuel cell
-101. furnish t indu
-102. formal clothes
+100. full cell
+101. furishtrain industry
+102. formal cloth
 103. four night
 104. fortnight
-105. f?
+105. fourth year student
