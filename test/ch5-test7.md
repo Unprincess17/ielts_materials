@@ -1,5 +1,5 @@
 1. living cost
-2. evening expense
+2. living expenses
 3. loan
 4. local walking club
 5. local history
@@ -7,13 +7,13 @@
 7. local pet shop
 8. local product
 9. local resident
-10. local school
+10. local schools
 11. local shop
 12. local student
 13. local trap
 14. look out point
-15. lock all window
-16. long term loan
+15. lock all windows
+16. long-term loan
 17. lost of soil
 18. lose temper
 19. loud speaker
@@ -23,23 +23,23 @@
 23. low income
 24. magazines and journals
 25. magical animals
-26. machine and robot
-27. martial arts
-28. made servant
+26. machine and robots
+27. martial art
+28. maid servant
 29. mail
 30. mailing list
-31. major inersing
+31. major in nursing
 32. main course
 33. main entrance
 34. main hall
 35. main kitchen
 36. main library
-37. make appointment
+37. made an appointment
 38. make clap
-39. map of cap
+39. map of cape
 40. manage time better
-41. manmake ttamp
-42. manual 
+41. mam-made damp
+42. manual facilities
 43. market research
 44. market cycle
 45. market economy
@@ -50,80 +50,80 @@
 50. marketing strategy
 51. math medium
 52. mind map
-53. master's degree
+53. master degree
 54. master card
 55. meat and cheese
-56. mathemetic formula
+56. mathmatic formular
 57. mature student
-58. mide study
-59. 62. medical centre
+58. medium study
+59. medium centre
 60. medium room
 61. medical science
-62. medical history
-63. circulist
-64. membe consultant
-65. mermbership club
-66. mensor 
-67. mental education
-68. microwave oven
-69. mid autumn festival
-70. mid morn
-71. mid range
-72. mister 
-73. migrition passon
-74. mal?
-75. miles
-76. military museum
-77. millon gray on the ground
-78. millons of
-79. mountain
-80. mi ry water
-81. minimun coll
+62. medical centre
+63. medical history
+64. booklist
+65. membership consultant
+66. membership club
+67. mental ability
+68. mental education
+69. microwave oven
+70. mid-autumn festival
+71. mid-morning snack
+72. mid range
+73. mid-semestar
+74. migration pattern
+75. milage ticket
+76. miles
+77. military meseum
+78. mill the grain on the ground
+79. millons of
+80. ?
+81. ?
 82. mining industry
 83. mobile phone
-84. modern languages
+84. modern language
 85. modern management hotel
-86. modern sports hall s?
-87. money dairy
+86. modern sports facilites
+87. money diary
 88. money lender
 89. money management
 90. money order
-91. mol education
-92. misquito night
+91. monotholic of education
+92. mosquito night
 93. mother in law
-94. movie coaster
+94. movie poster
 95. movement of muscle
-96. music equipment
+96. movement equipment
 97. music instrument
 98. notice board
-99.  name search
+99. name batch
 100. native animals
-101. negative affect
+101. negative affects
 102. natural medicine
-103. natrual museum
-104. natural fiber
+103. natural museum
+104. natural fibre
 105. new technology
 106. knife
-107. knight chest
-108. know elegy
-109. know charge
-110. no 
-111. non medicine atom
-112. no ?
-113. not check identities
-114. not speculation
-115. number exposure
+107. knife chest
+108. no allergy
+109. no charge
+110. no nuts
+111. none medicine atom
+112. non-stop flight
+113. ? addentity
+114. non stop 
+115. number explosore
 116. number of occupant
 117. nursing care
 118. nursing diploma
-119. occupation ?
-120. nurse ray
-121. nursury school
-122. ab course
-123. self diff
-124. off campus
-125. office assistant
+119. occupation of 
+120. nursery
+121. nusery school
+122. obligitary course
+123. self diefficient
+124. off-campus
+125. office efficiency
 126. over fail
-127. orali
+127. oil 
 128. olive oil
-129. ?
+129. of h term
