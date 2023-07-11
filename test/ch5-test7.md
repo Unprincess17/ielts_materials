@@ -79,51 +79,52 @@
 79. millons of
 80. ?
 81. ?
-82. mining industry
-83. mobile phone
-84. modern language
-85. modern management hotel
-86. modern sports facilites
-87. money diary
-88. money lender
-89. money management
-90. money order
-91. monotholic of education
-92. mosquito night
-93. mother in law
-94. movie poster
-95. movement of muscle
-96. movement equipment
-97. music instrument
-98. notice board
-99. name batch
-100. native animals
-101. negative affects
-102. natural medicine
-103. natural museum
-104. natural fibre
-105. new technology
-106. knife
-107. knife chest
-108. no allergy
-109. no charge
-110. no nuts
-111. none medicine atom
-112. non-stop flight
-113. ? addentity
-114. non stop 
-115. number explosore
-116. number of occupant
-117. nursing care
-118. nursing diploma
-119. occupation of 
-120. nursery
-121. nusery school
-122. obligitary course
-123. self diefficient
-124. off-campus
-125. office efficiency
-126. over fail
-127. oil 
-128. olive oil
-129. of h term
+82. ?
+83. mining industry
+84. mobile phone
+85. modern language
+86. modern management hotel
+87. modern sports facilites
+88. money diary
+89. money lender
+90. money management
+91. money order
+92. monotholic of education
+93. mosquito night
+94. mother in law
+95. movie poster
+96. movement of muscle
+97. movement equipment
+98. music instrument
+99. notice board
+100. name batch
+101. native animals
+102. negative affects
+103. natural medicine
+104. natural museum
+105. natural fibre
+106. new technology
+107. knife
+108. knife chest
+109. no allergy
+110. no charge
+111. no nuts
+112. none medicine atom
+113. non-stop flight
+114. ? addentity
+115. non stop 
+116. number explosore
+117. number of occupant
+118. nursing care
+119. nursing diploma
+120. occupation of 
+121. nursery
+122. nusery school
+123. obligitary course
+124. self diefficient
+125. off-campus
+126. office efficiency
+127. over fail
+128. oil 
+129. olive oil
+130. of h term
