@@ -6,7 +6,7 @@ Files = os.popen("git diff --name-only HEAD HEAD^").read().split("\n")
 #get time as MONTH-DAY
 time = datetime.datetime.now().strftime("%m%d")
 for file in Files:
-    if(os.path.exists(file) and file in os.listdir("test")):
+    if(os.path.exists(file) and file.startswith("test")):
         filename = os.path.basename(file)
         print(filename)
         os.system(f"diff --ignore-space-change -y --suppress-common-lines ref/{filename} test/{filename} > err/{filename}.{time}.txt")
