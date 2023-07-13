@@ -1,0 +1,147 @@
+1. code							      |	1. cold
+4. mould						      |	4. mold
+5. machinery						      |	5. machinary
+7. vertical						      |	7. verticle
+9. decisions						      |	9. discisions
+11. herds						      |	11. hurts
+12. clay						      |	12. play
+13. eco-cement						      |	13. ecosment
+15. arrows						      |	15. errors
+22. insects						      |	22. insights
+25. cognition						      |	25. cocnition
+29. self-centred					      |	29. self-centered
+32. lid							      |	32. leat
+34. sterms						      |	34. stems
+35. obstacles						      |	35. opsticles
+36. mechanism						      |	36. maci
+44. postal						      |	44. hostel
+46. random						      |	46. gradam
+47. cost-effective					      |	47. cost effective
+56. contaminants					      |	56. conteminants
+59. lifespan						      |	59. life-span
+67. mammal						      |	67. mammul
+68. breathe						      |	68. brief
+69. pollutants						      |	69. pollutans
+78. cosmetics						      |	78. cosmatics
+79. carpets						      |	79. copies
+81. packagine						      |	81. packaging
+83. odor						      |	83. older
+85. backteria						      |	85. bacteria
+87. migration						      |	87. magriation
+88. morality						      |	88. marrility
+89. situational						      |	89. situational?
+90. aspirations						      |	90. asperations?
+95. barrier						      |	95. barrer
+104. predators						      |	104. bridatas
+105. molt						      |	105. note
+107. cement						      |	107. summent
+108. cognitive						      |	108. cognitive?
+110. rational						      |	110. resional?
+117. obligation						      |	117. obligation?
+119. rags						      |	119. bricks
+120. rainbow						      |	120. ribbon
+121. desert						      |	121. dessert
+122. lizard						      |	122. lizzard?
+125. shrimps						      |	125. shrims
+126. moisture						      |	126. moister
+127. ultraviolet					      |	127. oster
+133. psychology						      |	133. cycology
+136. ethnics						      |	136. nics?
+137. nomad						      |	137. nomad?
+145. numerous						      |	145. numeroucy
+146. repellent						      |	146. repilent
+147. odd						      |	147. art
+148. factual						      |	148. factory
+152. audiory						      |	152. auditory
+155. intimate						      |	155. intermate
+157. teaspoon						      |	157. teethbone
+158. beetroot						      |	158. bit rate
+159. retrieval						      |	159. retrival
+161. impairment						      |	161. inpi
+162. autism						      |	162. artism
+163. autistic						      |	163. artistic
+165. long-lasting					      |	165. long lasting
+166. poisonous						      |	166. poisoners
+168. additive						      |	168. edditive
+171. colony						      |	171. collerny
+174. accept						      |	174. except
+176. purpose						      |	176. perpious
+183. fertiliser						      |	183. fertilizer
+189. whistle						      |	189. wistle
+193. poet						      |	193. poit
+194. antibiotic						      |	194. bic?
+198. moisture						      |	198. moisture?
+201. restrained						      |	201. restride
+206. depth						      |	206. damps
+212. commerce						      |	212. commers
+214. Greek						      |	214. grick
+218. hospitality					      |	218. hospitility
+222. critics						      |	222. fridics
+224. infection						      |	224. inflaction
+226. description					      |	226. discription
+229. trumpet						      |	229. trumpte
+231. magnet						      |	231. magnite
+233. lions						      |	233. lance
+234. emperor						      |	234. amber
+235. feathers						      |	235. fiders
+238. taxes						      |	238. taxies
+240. alternative energy					      |	240. otonic energy
+242. high absense rate					      |	242. pine?
+245. ocean conditions					      |	245. ocean condition
+247. simple memories					      |	247. simple memory
+259. private property					      |	259. private 
+260. fruit growing					      |	260. food going
+261. specialized software				      |	261. specialised software
+262. chewing gum					      |	262. jo come
+270. goat skin						      |	270. gold sgain
+278. government election				      |	278. government elaction
+279. car tax						      |	279. car tank
+288. further training					      |	288. furthur training
+292. large-scale housing				      |	292. large scale housing
+298. broken axe						      |	298. broken eggs
+300. triangle-shaped					      |	300. triangle shaped
+301. absence rate					      |	301. absense rate
+304. sleeping disturbance				      |	304. sleeping disterpence
+308. ask for apology					      |	308. ask for appology
+309. voices and faces					      |	309. voices of 
+313. grain pattern					      |	313. green pattern
+320. melting pot					      |	320. millting pot
+322. fishing lesson					      |	322. fishing license
+325. Roman emperor					      |	325. Roman Emporal
+326. social conformity					      |	326. social 
+327. law firm						      |	327. law firmed
+328. protective clothing				      |	328. protective
+332. rich experiences					      |	332. rich experience
+334. durable contracture				      |	334. durable contract
+337. hospitality industry				      |	337. hospitility industry
+342. presence rate					      |	342. prices rate
+355. regular basis					      |	355. regular bases
+357. lifestyle sports					      |	357. life style sports
+359. traditional sports					      |	359. traditional sport
+360. restricted regulations				      |	360. restricted regulation
+362. individual competition				      |	362. individule competition
+364. salt content					      |	364. sold content
+375. major illness					      |	375. major ills
+379. dark blue veil					      |	379. dark blue view
+380. scientific backup					      |	380. scientific backer
+381. migration patterns					      |	381. magrition pattern
+382. preserved remains					      |	382. preserved ?
+384. tape measure					      |	384. take measure
+387. estate agent					      |	387. estagent
+388. botanic garden					      |	388. bottanic garden
+389. emergency locator beacon				      |	389. emergency locator beacons
+390. digestive problem					      |	390. digestive product
+391. red blood cells					      |	391. cell?
+392. weight loss					      |	392. wait loss
+401. goat skin						      |	401. gold skin
+404. administration officer				      |	404. administration office
+405. machines or robots					      |	405. machined robots
+407. rubber tyre					      |	407. rubber tire
+408. desert location					      |	408. disert location
+409. southern Scotland					      |	409. sut
+410. head offices					      |	410. headoffices
+412. safe environment					      |	412. safe and environment
+416. maintain the gene diversity			      |	416. maintain the gym diversity
+417. hinder domestic smells				      |	417. hinder smells
+418. transport costs					      |	418. transport cost
+420. 							      <
