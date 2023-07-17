@@ -45,7 +45,7 @@
 45. tropical diseases
 46. tuition fee
 47. tutorial system
-48. twim room
+48. twin room
 49. TV series
 50. TV chat show
 51. under pressure
