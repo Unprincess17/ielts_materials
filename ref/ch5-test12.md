@@ -22,7 +22,7 @@
 22. dressing
 23. assessment
 24. admission
-25. commision
+25. commission
 26. depression
 27. affect
 28. effect
@@ -45,7 +45,7 @@
 45. association
 46. attachment
 47. attack
-48. attepmt
+48. attempt
 49. attitude
 50. attend
 51. attendance
@@ -150,7 +150,7 @@
 150. impossible
 151. incorrect
 152. innovation
-153. iterviewee
+153. interviewee
 154. lessen
 155. degree
 156. likelihood

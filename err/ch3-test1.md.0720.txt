@@ -1,0 +1,38 @@
+9. adult						      |	9. adopt
+11. advertisements					      |	11. advertisement
+13. advice						      |	13. advise
+22. alley						      |	22. ally
+24. alteration						      |	24. operation
+25. altitude						      |	25. attitude
+33. ankle						      |	33. anchor
+35. Antarctica						      |	35. Arctic
+36. ape							      |	36. ait
+37. appearance						      |	37. apperance
+40. area						      |	40. arithmatic
+41. argument						      |	41. arguments
+42. aristocrat						      |	42. are
+46. aspirin						      |	46. a
+48. atlas						      |	48. ?
+49. audience						      |	49. audio
+50. auditorium						      |	50. audio t
+55. bachelor						      |	55. bachlor
+58. badge						      |	58. batch
+61. baldness						      |	61. boldness
+64. bands						      |	64. ban
+66. banquet						      |	66. bank with
+69. bases						      |	69. basis
+70. basis						      |	70. bases
+71. bath						      |	71. buff
+72. batteries						      |	72. battery
+81. bedsit						      |	81. bed set
+83. belt						      |	83. belts
+92. blanket						      |	92. blankets
+95. blouse						      |	95. blause
+96. board						      |	96. bold
+97. boarder						      |	97. border
+102. branch						      |	102. brunch
+104. brick						      |	104. break
+108. bungalow						      |	108. bangolow
+109. burger						      |	109. burgur
+110. burglar						      |	110. burgurlur
+112. cab						      |	112. cap
