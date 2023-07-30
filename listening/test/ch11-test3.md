@@ -1,24 +1,24 @@
-1. ragers
+1. rangers
 2. measurement
 3. voluntary
 4. dark room
 5. reflective
-6. oat folier
-7. fire places
+6. pocfolier
+7. fireplaces
 8. priority
-9. verbelization
+9.  urbanization
 10. nest
-11. envaporation
+11. evaporation
 12. hive
 13. conservation
 14. net workers
-15. eco-system
+15. ecosystem
 16. flexibility
 17. forestry
 18. literature
 19. regulator
 20. hammer
-21. incupator
+21. ecupator
 22. workforce
 23. attachment
 24. stable
@@ -28,29 +28,29 @@
 28. internship
 29. workload
 30. appendencies
-31. poliment
+31. parliament
 32. recreational
 33. wind mill
-34. mating
-35. fibric
+34. meeting
+35. fabric
 36. cardiovascular
-37. feasibility
+37. vesibility
 38. evaluation
-39. collabrative
+39. collaboritive
 40. simulation
-41. coverage li
-42. precision
-43. arrangenality
+41. coverage lit
+42. crisition
+43. originality
 44. objective
 45. nutrition
 46. pesticide
-47. fuse
+47. fuels
 48. wait
-49. respondence
+49. respondense
 50. relevant
 51. discipline
 52. reliance
-53. ink
+53. inch
 54. tourists
 55. farming
 56. sample
@@ -65,7 +65,7 @@
 65. informality
 66. informative
 67. ideal
-68. percent
+68. accent
 69. summit
 70. package
 71. firewood
@@ -73,237 +73,237 @@
 73. propotion
 74. dimension
 75. upheaval
-76. adultable
+76. adoptable
 77. evolutionary
-78. carbonative
+78. cognitive
 79. commitment
-80. anatmee
-81. conterpart
+80. anotony
+81. counterpart
 82. sensitive
 83. adaptation
-84. inplication
-85. novase
+84. implication
+85. no
 86. potential
 87. annual
 88. dismissive
 89. adaptability
 90. pigeon
-91. speciemen
+91. spicemen
 92. inclusion
-93. hibernation
-94. hermone
-95. squirral
-96. c?
-97. cornalogical
-98. distrasion
-99. semantic
+93. hybrination
+94. heromone
+95. squirrel
+96. satisfaction
+97. kernalogical
+98. distracting
+99.  semantic
 100. episodic
 101. strategy
 102. procedure
 103. diploma
 104. measurements
-105. group disscussion month
+105. group discussion marks
 106. middle term test
 107. data analysis
 108. photo statistics
 109. extra time
 110. communication system
 111. personal interest
-112. ? of department
+112. secretary department
 113. computer office
-114. hars course material
+114. past house material
 115. international reputation
 116. history research
 117. conference report
-118. ground plan
+118. ground man
 119. check rooms
 120. computer skills
 121. teaching stuff
 122. global listening
 123. eye contacts
-124. card catelogue
-125. lab of soil
-126. food paste
-127. inva damage
+124. card catalogue
+125. lack of soil
+126. food pest
+127. environmental damage
 128. food chain
-129. failing ward shade
-130. model guy
-131. video 
+129. feeling worksheet
+130. model guide
+131. video camera
 132. measuring equipment
-133. natural 
+133. natural ability
 134. good effort
-135. leadership skill
-136. adcessible discussion
+135. skill
+136. accessible discussion
 137. breaking system
-138. inv
+138. environmental issues
 139. management of change
-140. financial aid
+140. financial aids
 141. working style
 142. late submission
 143. lack of research
 144. farming method
 145. knowledge sharing
 146. uniform level
-147. seeting c
+147. seating capacity
 148. picture framing
-149. packing material
+149. packing materials
 150. story conference
 151. stage production
-152. planning meeting
+152. planing meeting
 153. video tape editor
-154. pocket
+154. population movement
 155. interview method
 156. exam preparation
-157. wakes students
-158. external organization
+157. wake up student
+158. external organisation
 159. word limit
-160. Internet connections
+160. internet connections
 161. professional learning
 162. in class simulation
 163. video recording
 164. plastic bottle
-165. residents hall
+165. residental
 166. life science
 167. financial planing
 168. medical skills
 169. customer relationship
-170. department hide
+170. department head
 171. interview questions
-172. Identity card
-173. address code
-174. preserved 
-175. show off staters
-176. ?aff
-177. personal idetity
+172. identity card
+173. dress code
+174. preserved memories
+175. show off status
+176. reflect tastes
+177. personal identity
 178. local community
 179. storage warehouse
 180. social information
 181. creative ideas
 182. living expenses
-183. survey method
-184. flower oglate
+183. survey methods
+184. flower outlet
 185. permanant record
 186. optional course
 187. drinking machines
 188. cash machine
 189. loundry service
-190. photo copy office
+190. photocopy office
 191. self access live
-192. electronic 
-193. tax structure
+192. electronic directory
+193. text structure
 194. digital history
-195. media study
+195. media studies
 196. natural resources
 197. environmental projects
 198. global access
 199. listening task
-200. bookload
+200. book loan
 201. compulsory course
 202. full time study
 203. flexible time study
-204. active vocanal
-205. extinct vocanol
-206. cleaning product
+204. active volcano
+205. extinct volcano
+206. cleaning products
 207. placement test
-208. company premise
-209. leisure activity
+208. company premises
+209. leisure activities
 210. senior advisor
 211. visual aids
-212. fossil remains
-213. human interference
+212. hostel remains
+213. human inter
 214. natural routine work
 215. coffee bar
 216. shop display
 217. personal service
 218. current study
 219. video approach
-220. job oppotunities
+220. job opportunities
 221. higher fees
 222. borrowed language
 223. conference building
-224. newmeracy skill
-225. networking oppurtuni
+224. numeracy skill
+225. networking opportunities
 226. research method
 227. audio recording
 228. lack of participation
 229. community reference
-230. council meeting
+230. counsil meeting
 231. renewable energy
-232. nuclear bounds
-233. traditional bounce
-234. small electronic equipement
+232. nuclear plants
+233. traditional resource
+234. small electronic equipment
 235. solar panel
-236. sports shoes
-237. co paying
-238. overtrace training
+236. sport shoes
+237. coin paying
+238. overseas training
 239. no chemical reaction
 240. current material
 241. brief notes
-242. supportive atomosphere
-243. support training
-244. uni
+242. supportive atomsphere
+243. training
+244. university sport staff
 245. background reading
 246. online forum
-247. soil sample
-248. lod question
+247. soil service
+248. blood pressure
 249. stress level
-250. school studio
-251. school jam
+250. school stadium
+251. school gym
 252. less oxygen
-253. aqurate date
+253. accurate date
 254. similar age
-255. sports acitivity
-256. ?
+255. sports activities
+256. art institution
 257. abstract design
 258. largest propotion
-259. a?
-260. long obersvation
-261. test result
-262. arragenal jewelry
+259. observation checklist
+260. non observation method
+261. test results
+262. original jewelry
 263. wood carve
 264. crisis management
-265. monage
-266. process requstment
+265. monitoring progress
+266. progress accessment
 267. team building
 268. budget management
-269. finding investmant
-270. ?
+269. finding investment
+270. inservation revenue
 271. food shortage
-272. power cart
-273. visual guidence
+272. power cut
+273. visual guidance
 274. information resources
 275. reference letter
 276. flexible study time
 277. lab facilities
-278. medicine science
+278. medicine signs
 279. engine capacity
 280. greater utility
 281. safe car
 282. extra height
-283. field divation
-284. commutor
+283. field vision
+284. commercial applications
 285. economic purpose
 286. higher cost
 287. cost of insurance
-288. distination 
-289. marine dessert
-290. social
+288. destination desert
+289. marine desert
+290. social interactions
 291. unexpected noise
-292. unbanlance 
+292. unbanlanced skilled improvement
 293. gradual way
-294. job response ability
+294. job responsibilities
 295. local faculty
 296. material background
-297. unanswered question
-298. f
+297. unanswered questions
+298. standard format
 299. practical knowledge
-300. business
+300. business journalism
 301. scientific term
 302. childish language
-303. sea jo
+303. sea jourmination
 304. objective matters
 305. housing project
-306. colors of fonts
+306. colors and fonts
 307. book allowance
 308. greater utility
 309. unexpected noise

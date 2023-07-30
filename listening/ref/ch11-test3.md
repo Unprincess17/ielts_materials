@@ -86,7 +86,7 @@
 86. potential
 87. annual
 88. dismissive
-89. adaptablility
+89. adaptability
 90. pigeon
 91. specimen
 92. inclusion
@@ -117,19 +117,19 @@
 117. conference report
 118. ground plan
 119. chat rooms
-120. comupter skills
+120. computer skills
 121. teaching staff
 122. global listening
 123. eye contacts
 124. card catalogue
-125. leack of soil
+125. lack of soil
 126. food pest
 127. environmental damage
 128. food chain
 129. fill in worksheet
 130. model guide
 131. video camera
-132. measuiring equipment
+132. measuring equipment
 133. natural ability
 134. good effort
 135. leadership skill
@@ -157,9 +157,9 @@
 157. weaker students
 158. external organisation
 159. word limit
-160. internet connnections
+160. internet connections
 161. professional learning
-162. in-class simulatino
+162. in-class simulation
 163. video recording
 164. plastic bottle
 165. residence hall
@@ -172,8 +172,8 @@
 172. identity card
 173. dress code
 174. perserve memories
-175. showw of status
-176. reflec tastes
+175. show off status
+176. reflect tastes
 177. personal identity
 178. local community
 179. storage warehouse
@@ -211,13 +211,13 @@
 211. visual aids
 212. fossil remains
 213. human interferance
-214. natual routine work
+214. natural routine work
 215. coffee bar
 216. shop display
 217. personal service
 218. current study
 219. video approach
-220. job ooportunities
+220. job opportunities
 221. higher fees
 222. borrowed language
 223. confidence building
@@ -225,7 +225,7 @@
 225. networking opportunities
 226. research method
 227. audio recording
-228. lack of participantion
+228. lack of participation
 229. community reference
 230. council meeting
 231. renewable energy
@@ -236,7 +236,7 @@
 236. sports shoes
 237. poor paying
 238. overseas training
-239. no chemical reactino
+239. no chemical reaction
 240. current material
 241. brief notes
 242. supportive atmosphere
@@ -253,13 +253,13 @@
 253. accurate date
 254. similar age
 255. sports activities
-256. art instituttion
+256. art institution
 257. abstract design
 258. largest proportion
 259. observation checklist
 260. non-observation method
 261. test results
-262. original jewellery
+262. original jewelery
 263. wood curve
 264. crisis management
 265. monitoring progress
@@ -287,20 +287,20 @@
 287. cost of insurance
 288. destination desert
 289. marine desert
-290. socail interactions
+290. social interactions
 291. unexpected noise
 292. unbalanced skill improvement
 293. gradual way
 294. job responsibilities
 295. local faculty
 296. material background
-297. unansered questions
+297. unanswered questions
 298. standard format
 299. practical knowledge
 300. business journalism
 301. scientific term
 302. childish language
-303. seed germiantion
+303. seed germination
 304. objective matters
 305. housing project
 306. colors and fonts
