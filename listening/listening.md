@@ -7,3 +7,4 @@ dollar / pound / euro
 电话：
 注意停顿
 
+accommodate 两个m两个c
