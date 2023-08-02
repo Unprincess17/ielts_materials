@@ -34,7 +34,6 @@
 103. concrete						      |	103. councre
 104. exterior						      |	104. ax
 105. fountain						      |	105. founting
-107. ducumentation					      |	107. documentation
 110. theme						      |	110. seem
 111. juniors						      |	111. jo
 113. spa						      |	113. spar
@@ -48,7 +47,6 @@
 128. parachute						      |	128. parashoot
 132. meetings						      |	132. meatings
 135. chimpanzees					      |	135. chimpanzes
-136. behavior						      |	136. behaviour
 137. dominance						      |	137. dominants
 139. binoculars						      |	139. phenoculum
 140. Eskimo						      |	140. exumum

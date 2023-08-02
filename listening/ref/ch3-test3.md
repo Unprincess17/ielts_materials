@@ -8,7 +8,7 @@
 8. delight
 9. delivery
 10. demonstration
-11. denist
+11. dentist
 12. department
 13. deposit
 14. depth
@@ -66,7 +66,7 @@
 66. eating
 67. economy
 68. editor
-69. educatino
+69. education
 70. elbow
 71. elder
 72. electricity

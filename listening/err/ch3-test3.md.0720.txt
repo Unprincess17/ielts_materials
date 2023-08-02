@@ -1,6 +1,5 @@
 7. delegate						      |	7. deligate
 10. demonstration					      |	10. demonstraion
-11. denist						      |	11. dentist
 16. desert						      |	16. dessert
 20. desks						      |	20. desk
 23. diary						      |	23. dairy
@@ -11,7 +10,6 @@
 36. discos						      |	36. disco
 42. dispute						      |	42. disbute
 63. eagle						      |	63. ego
-69. educatino						      |	69. education
 70. elbow						      |	70. ebal
 71. elder						      |	71. egear
 74. elevator						      |	74. elavator

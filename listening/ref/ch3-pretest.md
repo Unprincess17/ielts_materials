@@ -104,7 +104,7 @@
 104. exterior
 105. fountain
 106. engineering
-107. ducumentation
+107. documentation
 108. tutorial
 109. journalism
 110. theme
