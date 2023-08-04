@@ -34,3 +34,55 @@
 - what
 - who
   
+# 物品题
+## what it looked like
+## what features it had
+### 物品的功能
+不要用大而空的，比如very conveniet...
+> handy durable multi-functional entertaining eco-friendly
+多说几个功能：`主要功能`+`特色功能`
+## how you felt about it
+
+# 事件题
+1. 时间+人物+地点
+2. 起因+经过+结果
+3. 谈感受
+
+# 人物题
+## who the person is
+> I'd like to talk about an `intelligent person I know/复述题干`. Actually, he is my English teacher called Jason Wang, who is in his early 30s.
+> Talking about an `intelligent person that I know`, the first one comes into my mind is Jason Wang, who is in his early 30s.
+teenager 
+## how you got to know him/her
+### Appearance
+- small eyes
+- stylish glassess
+- sweet/nice smile
+- deep dimples
+- tall and well-built
+- slim and slender
+- fit / musclar
+> She is a tall and slim lady with a nice smile and deep dimples.
+> She is a very tall and slim lady and what impressed me were her nice smile and deep dimples.
+### 分类讨论
+- Mainly... In his spare time...
+- Normally... At the same time...
+- xx's biggest achievement is ... Also...
+## Why you like the person
+1. 朋友
+- outgoing
+- helpful
+- positive
+- cheerful
+- honest
+2. 长辈
+- knowledgeable
+- profound
+- talented
+- wise/ full of wisdom
+3. 理想中的自己
+- hard-working
+- diligent
+- genuine
+- confident
+- articulate

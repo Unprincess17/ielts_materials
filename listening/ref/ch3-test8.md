@@ -141,7 +141,7 @@
 141. survival
 142. sweater
 143. switch
-144. swithes
+144. switches
 145. symptom
 146. syndicate
 147. syrup

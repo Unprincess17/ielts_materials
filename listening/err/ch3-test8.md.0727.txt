@@ -32,6 +32,5 @@
 118. stomach						      |	118. stomache
 124. strehgth						      |	124. strink
 130. suburb						      |	130. subber
-144. swithes						      |	144. switches
 146. syndicate						      |	146. sidkit
 152. tax						      |	152. tack

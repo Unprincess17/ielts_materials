@@ -54,7 +54,7 @@
 54. tractor
 55. trade
 56. tram
-57. tradegy
+57. tragedy
 58. trailer
 59. training
 60. trend

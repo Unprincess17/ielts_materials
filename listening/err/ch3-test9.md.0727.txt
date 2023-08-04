@@ -14,7 +14,6 @@
 47. touring						      |	47. toring
 54. tractor						      |	54. tracter
 55. trade						      |	55. trace
-57. tradegy						      |	57. tragedy
 60. trend						      |	60. trait
 64. trip						      |	64. trick
 65. tribe						      |	65. trip
