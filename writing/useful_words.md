@@ -18,6 +18,7 @@ pour money into sth
 
 ## 表示事情的回报
 fruitless
+prolific 多产的 `prolific writer`; `Mice are prolific breeders.`
 
 ## 比较
 outweigh

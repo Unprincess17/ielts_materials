@@ -18,7 +18,6 @@
 41. driving diary					      |	41. driving daring
 44. old ruins						      |	44. old rowings
 50. specialised microscope				      |	50. specialized li
-51. specialised software				      |	51. specialized software
 53. tools for garden					      |	53. tools forgarden
 54. training programme					      |	54. trainning programme
 59. upset employees					      |	59. opposite employees
@@ -71,7 +70,6 @@
 175. current position					      |	175. c?
 177. annual fee						      |	177. unusual fee
 178. fund raising					      |	178. phone drasing
-185. specialised expert					      |	185. specialize expert
 189. financial planning					      |	189. financial puning
 190. aerial photographs					      |	190. e funishment
 191. language barriers					      |	191. language barries
@@ -161,7 +159,6 @@
 367. boilded water					      |	367. oil water
 369. maximum output					      |	369. maximum outport
 373. note-taking skills					      |	373. ?
-375. mineral siol					      |	375. miniral soil
 376. volcanic dust					      |	376. vocalnic dust
 377. pressure heat					      |	377. pressure 
 378. intermediate stage					      |	378. intermediate ?
