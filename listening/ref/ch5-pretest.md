@@ -1,5 +1,5 @@
 1. notice board
-2. truck licence
+2. truck license
 3. payment basis
 4. life span
 5. consistent growth
@@ -372,7 +372,7 @@
 372. global listening strategy
 373. note-taking skills
 374. eye contact
-375. mineral siol
+375. mineral soil
 376. volcanic dust
 377. pressure heat
 378. intermediate stage

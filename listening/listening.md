@@ -17,3 +17,15 @@ metal=>metallurgy 而不是metalogy
 > dairy 乳品，牛奶的
 
 ```
+
+# 租房场景及个人信息表格填空
+租期
+let
+
+要负的费 
+phone bill
+
+房间设施
+garage
+
+well-furnished and equipped

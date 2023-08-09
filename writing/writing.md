@@ -32,3 +32,10 @@ Disagree
 Present opinion
 It's my view that; It's my belief/conviction that...; I agree with the view that...; I would argue that... ; 
 ```
+
+## 主体
+Outline = ideas + organization
+### idea
+- 直觉
+- 场景还原法
+- 万能思路

@@ -10,7 +10,7 @@
 10. allergic
 11. alternative
 12. amazing
-13. ambiguouts
+13. ambiguous
 14. ambitious
 15. analytical
 16. ancient
