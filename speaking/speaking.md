@@ -86,3 +86,12 @@ teenager
 - genuine
 - confident
 - articulate
+
+# 课程总结
+1. 听懂问题
+   1. Sorry?
+   2. What do you mean by xxx?(或者只说开头的发音)
+   3. Do you mean ...?
+   问，不扣分的
+2. 1,5,9月换题季
+3. 流利度 多遍重复

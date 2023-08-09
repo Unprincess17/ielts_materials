@@ -31,4 +31,4 @@ Disagree
 ```
 Present opinion
 It's my view that; It's my belief/conviction that...; I agree with the view that...; I would argue that... ; 
-``
+```
