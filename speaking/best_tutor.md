@@ -72,3 +72,145 @@ take off t-shirts
 teachers 30
 
 # 8.26
+patient
+leave me some exercises
+
+city
+
+firms=> air clean, traffic cong-> big city old-ancient buildings-> modern skyscrapers
+
+wild animal
+
+
+Part2
+**story**
+similar structure
+WH Questions where what who which when why how
+
+1.5 min quickly continue talking. Oh, you know ... 
+less than 2 min
+
+Supervisor 30s
+ hardworking talented thoughtful
+teach ohter
+inspire
+if you 
+
+on themselves 
+solve by themselves
+
+family reunion
+
+Chinese New Year
+family reunion watch TV programs talk about whole years life
+family members mother father grandparents
+precious time
+
+for shi
+
+# 8.27
+
+book
+Docter Daniel's running formular
+training exercise methods and sports lives of famous runners
+score table
+every year
+
+e-book
+
+famous person
+Eluid Kipchoge
+most successful marathon runner ever time
+won for 8 years and got 2 gold medals in Olympics
+milk boy
+
+goat
+no human is limited
+
+inspire
+
+young child
+niece 7 years old
+in this Chinese New Year. my Parents went to the supermarket, and 
+played computer no interest
+let her ride a bike
+children. not childrens
+ran 
+
+I missed a test just because I forgot to apply for it.
+csp test
+in august
+
+
+house
+cottage in countryside of Henan, which is my hometown.
+My family members
+farms
+used to see them a few times on train travels
+
+adventure
+UTMB famous
+chamonix France
+Maybe with my friends, who also studied in  live in Zurich
+pilgrim
+
+mountain stone-monkey in my hometown I 've neveer take a trail running here so I started to run in the mountain.
+But I don't have a map.
+evening
+last summer
+
+scared
+I called my
+
+get connection
+
+with my parents
+They drove me to university
+My mother and father drove  in turn
+
+We drove into the dormitory
+
+I wish I could spend more time with my parents, since 
+
+all along the way
+took some photos, sightseeings, ate in restaurant, talked each other, checked into hotels
+
+breaking 2 tell a story about Kipchoge, who is the greatest mar run of all the time , tried to break the world record but failed
+recom
+
+water sport: fishing swimming surfing diving sailing
+swiming in open water. 
+east lake, near my university
+it's really hard
+always see many when I am running. triathlon
+
+5 kilimeters runing race
+first TV 2008 Beijing Olympic Games
+since then, I started to run . also watch some games at 2 am
+they are vary cool
+
+Past tense
+
+expensive sports car
+
+I am a student now, maybe I will spend more than a several years to do so.
+
+She was very cool, 
+but to have a baby
+I think she is a good mother And I want to compesent 
+
+made 
+
+zhuozheng garden. 后面带一个garden
+I've been there twice, fir and seco
+taking photos, listen to guides , children chasing each other
+I don't think it is a good place to relax, since it is always crowded
+quite famous for architecture and design, which is very unique in China
+Ancient people combine elements 
+
+brother
+Zurich which is a city in Switzerland, he said he can ride a bike from German to Switzerland everyday cool
+study in a new university
+If you want to learn more, you can 
+
+page 33
