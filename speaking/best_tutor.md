@@ -269,3 +269,10 @@ world recod holder
 learning cureve
 
 
+# 8.31
+41 next time important decision
+where to study , home or abroad; and what to study
+complicated question, but you have to make a decision on your own
+ask for my instructor's advice
+puzzle rule
+
