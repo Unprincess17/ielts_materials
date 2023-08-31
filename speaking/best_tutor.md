@@ -214,3 +214,58 @@ study in a new university
 If you want to learn more, you can 
 
 page 33
+
+# 8.28
+
+There was a sudden fall of temperature, but I didn't wear enough clothes. 
+
+
+
+happy experience in your childhood
+it was when I was about 10 years old, I went to an exposition named the window of the world in Shenzhen 
+parents and my aunt
+we see many famous buildings and architectures from all over the world, like pyramids, Eiffel Tower, and the statue of liberty
+I really like the pyramid because it's very mysterious and I've never seen it before. 
+
+wee saw
+they(pyramid) are very
+archaeologists
+
+playing a computer game named Broforce
+it's a battle game, and you can play with your friends
+I like to play it in my home or in my friends' home
+
+Zurich
+the next year, because I am going to study in a new university
+fly there, because it's realy far 
+see some run with 
+
+blue running vest 
+i got it when I ran a marathon in less than 3 hours, sent  
+identified as a elite runner
+confidence
+
+temporary store
+
+a shop in my university
+hotmax, foods that near the deeadline
+young students
+successful
+
+照顾的英语是take care of
+
+students graduate from senior high schools
+study life
+nervous introverted, continue-> confidence
+embarrasing time,  talk me a lesson that if you prepare well, you will be confident
+
+
+sports analyst
+I like running and I find it very interesting that my watch could predict a score about my races
+
+smart watch
+log your running data listen to music guide yourself in a trail running
+world recod holder
+learning cureve
+
+
