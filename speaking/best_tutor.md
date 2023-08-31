@@ -276,3 +276,45 @@ complicated question, but you have to make a decision on your own
 ask for my instructor's advice
 puzzle rule
 
+good news
+vietnam friend is going to CHina to continue his PHD
+went back home summer vacation
+Wechat last week
+can't wait to 
+also ask me for regis
+
+activity
+liked playing, especially a game named Broforce
+shoot the enemies and rescue the hostages
+friends home or my home
+ridi
+get rid of high pressure
+
+unusual meal
+summer vacation
+parents were out and ate at home
+youngster lazy
+fried cabbage
+not vegetarian
+spicy
+wierd 
+water
+
+a friend of my brother
+about how to install a compuetre system
+you know, geeks like linux not encapsulated well, configure it by yourself
+after a whole evening
+
+
+a new shop in my university, selling some cheap snacks
+tea-bar, it's somewhere you could drink tea and relax youself
+sold out and replaced by the new shop in just a few days
+Elder people will like the old one, but all of us young students really like the new shop
+
+
+development of Boston marathon
+held in more than one-hundred years ago
+pilgrim 
+unicorn representative
+
+page 67
