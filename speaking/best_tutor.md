@@ -317,4 +317,58 @@ held in more than one-hundred years ago
 pilgrim 
 unicorn representative
 
+# 9.1
 page 67
+in the preparation for a relay race during the summer vacation
+a student from vietnam
+exercises
+broaden
+
+enjoyed talking
+we ran
+Vietnamese
+exhausting
+
+noisy place
+a restaurant in my hometown
+went back home during the Chinese new year
+parents
+listen, not so close
+could't do something you like I 
+
+close relatives
+uncomfortable, inconvenient
+
+website ofen visit
+广告的英语是advertisement
+runyifeng's Blog
+my teacher recommended me to read it
+quite interesting
+get update every friday
+broaden forum news chat make friends
+
+learn in the future
+riding a bicycle like a professional rider
+longing for triathlon, must to 
+in wuhan, under some instructors and professors
+difficult
+
+professor× professional√ iphone 14 pro->professional
+
+my freind mike
+met as a classmate in the open day of my university
+three third year since we've met
+new techono share work together
+
+knowledge不可数
+
+difficult techonology
+gpt
+in the Apirl of this year
+heard
+block
+everyday
+internet proxy
+difficult rewarding
+
+page 73
